@@ -21,8 +21,7 @@
 <p align="center">
   💬 Ask me about Competitive Programming, Problem Solving
 </p>
-<h3 align="center">
-  📫 Connect with me on:
+
   <br>
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Al.Amin.Chowdhury09/)<br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)<br>
