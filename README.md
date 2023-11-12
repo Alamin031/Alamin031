@@ -5,6 +5,9 @@
 </h1>
 
 <h3 align="center">CS Undergraduate | Competitive Programmer | Problem Setter | Programming Trainer</h3>
+<br>
+
+### Hi there 👋
 
 <a align="center">
 - 🔭 I’m currently studying Computer Science and Engineering at <a href="https://www.aiub.edu/"> American International University-Bangladesh </a>
@@ -43,7 +46,10 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/Alamin031/github-readme-stats)
 
 </div>
-
+<br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
 <br>
 
 <p align="center">
