@@ -31,6 +31,7 @@
 
 <br>
 ---
+
 ### Skills and Technologies
 
 - **Programming Languages**: C++, Java, C#, Python, R
