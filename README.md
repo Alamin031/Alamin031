@@ -19,9 +19,10 @@
 <br>
 <br>
 
-[![Md Al Amin Chowdhury GitHub stats](https://github-readme-stats.vercel.app/api/?username=Alamin031&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Md Al Amin Chowdhury GitHub stats](https://github-readme-stats.vercel.app/api/?username=Alamin031&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Alamin031)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/Alamin031/github-readme-stats)
+
 
 <br/>
 <br/>
