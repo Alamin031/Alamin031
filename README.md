@@ -163,8 +163,7 @@
   
   [Wakatime Dashboard](https://wakatime.com/@Alamin031)
 
-  .. image:: https://wakatime.com/share/@Alamin031/80e331c7-829c-472d-8ab3-0863eb0871aa.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Alamin031/80e331c7-829c-472d-8ab3-0863eb0871aa.png" /></a>
 
 </div>
 
