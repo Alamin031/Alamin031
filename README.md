@@ -23,8 +23,9 @@
 </p>
 
 <p align="center">
-  📫 Connect with me on:
+📫 Connect with me on:
 [Facebook](https://www.facebook.com/Al.Amin.Chowdhury09/) [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) [Twitter](https://twitter.com/your-twitter-handle)
+
 
 </p>
 
