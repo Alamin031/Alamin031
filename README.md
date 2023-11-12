@@ -170,15 +170,6 @@
 
 </div>
 
-
-<br>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin031&layout=compact&theme=dark&hide_border=true)](https://github.com/Alamin031)
-
-</div>
-
 <br>
 
 <div align="center">
@@ -193,4 +184,12 @@
 
   [![GitHub Followers](https://img.shields.io/github/followers/Alamin031?label=Followers&style=social)](https://github.com/Alamin031?tab=followers)
 
+</div>
+
+<div align="center">
+  
+  <figure>
+    <embed src="https://wakatime.com/share/@Alamin031/c3f9f429-5d52-4c00-a9e7-0b00a06252ee.svg">
+  </figure>
+  
 </div>
