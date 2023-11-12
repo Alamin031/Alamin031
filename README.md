@@ -172,9 +172,14 @@
 
 <div align="center">
 
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alamin031&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&title_color=fff)](https://wakatime.com/@Alamin031)
+  
+  [![Wakatime Badge](https://wakatime.com/badge/user/018bc4d0-2d37-4ca2-a88f-2a641385c956.svg)](https://wakatime.com/@018bc4d0-2d37-4ca2-a88f-2a641385c956)
+  
+  [Wakatime Dashboard](https://wakatime.com/@Alamin031)
 
 </div>
+
 
 <br>
 
@@ -184,13 +189,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-  [![Wakatime Badge](https://wakatime.com/badge/user/018bc4d0-2d37-4ca2-a88f-2a641385c956.svg)](https://wakatime.com/@018bc4d0-2d37-4ca2-a88f-2a641385c956)
-
-</div>
 
 <br>
 
@@ -199,6 +197,3 @@
   [![GitHub Followers](https://img.shields.io/github/followers/Alamin031?label=Followers&style=social)](https://github.com/Alamin031?tab=followers)
 
 </div>
-
-
-  [Wakatime Dashboard](https://wakatime.com/@Alamin031)
