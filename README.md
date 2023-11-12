@@ -7,7 +7,7 @@
 <h3 align="center">CS Undergraduate | Competitive Programmer | Problem Setter | Programming Trainer</h3>
 
 <a href="https://github.com/syedmrinmoy960/github-profile-views-counter">
-   <p align="center">  <img src="https://komarev.com/ghpvc/?username=syedmrinmoy960"> </p>
+   <p align="center">  <img src="https://komarev.com/ghpvc/?username=Alamin031"> </p>
 </a>
 
 ### Hi there 👋
