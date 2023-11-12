@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-- 👨‍💻 All of my projects are available at <a herf="https://alamin031.github.io/Md-Al-Amin-Chowdhury/"> [alamin031.github.io]</a>
+- 👨‍💻 All of my projects are available at <a href="https://alamin031.github.io/Md-Al-Amin-Chowdhury/">Facebook</a>
 </p>
 
 <p align="center">
