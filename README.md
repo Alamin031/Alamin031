@@ -10,7 +10,7 @@
 
 <p align="center">
   
-  🌱 Currently studying Computer Science and Engineering at [American International University-Bangladesh](aiub.edu)
+  🌱 Currently studying Computer Science and Engineering at [American International University-Bangladesh](https://www.aiub.edu/)
   
 </p>
 
