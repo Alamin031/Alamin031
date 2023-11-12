@@ -23,9 +23,12 @@
 </p>
 
 <p align="center">
-  📫 Connect with me on
   <br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](#) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](#)
+📫 Connect with me on:
+- [Facebook](https://www.facebook.com/Al.Amin.Chowdhury09/)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Twitter](https://twitter.com/your-twitter-handle)
+
 
 
 <br>
