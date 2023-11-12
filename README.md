@@ -23,15 +23,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/Alamin031/github-readme-stats)
 
-<br>
-<br>
-
-[![Md. Al Amin Chowdhury GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alamin031&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats)
-
-[![Md Al Amin Chowdhury GitHub stats](https://github-readme-stats.vercel.app/api/?username=Alamin031&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br/>
+<br/>
 
 <p align="center">
     <a href="https://github.com/Alamin031/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alamin031's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alamin031&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<br>
+<br>
