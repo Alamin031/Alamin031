@@ -188,6 +188,14 @@
 
 <div align="center">
 
+  [![Wakatime Badge](https://wakatime.com/badge/user/018bc4d0-2d37-4ca2-a88f-2a641385c956.svg)](https://wakatime.com/@018bc4d0-2d37-4ca2-a88f-2a641385c956)
+
+</div>
+
+<br>
+
+<div align="center">
+
   [![GitHub Followers](https://img.shields.io/github/followers/Alamin031?label=Followers&style=social)](https://github.com/Alamin031?tab=followers)
 
 </div>
