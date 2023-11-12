@@ -19,17 +19,18 @@
 <br>
 <br>
 
-<div style="float: left; width: 45%;">
+<p style="float: left; width: 45%;">
+  <a href="https://github.com/Alamin031">
+    <img src="https://github-readme-stats.vercel.app/api/?username=Alamin031&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Md Al Amin Chowdhury GitHub stats">
+  </a>
+</p>
 
-  [![Md Al Amin Chowdhury GitHub stats](https://github-readme-stats.vercel.app/api/?username=Alamin031&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Alamin031)
+<p style="float: right; width: 45%;">
+  <a href="https://github.com/Alamin031/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff" alt="Top Languages">
+  </a>
+</p>
 
-</div>
-
-<div style="float: right; width: 45%;">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/Alamin031/github-readme-stats)
-
-</div>
 
 
 
