@@ -41,7 +41,7 @@
 
     
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Al.Amin.Chowdhury09/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/md-alamin-chowdhury-2b5b55104/)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 </p>
 
@@ -94,8 +94,7 @@
 
 - ACM ICPC Regional Contestant
 - Codeforces Div.1 Participant
-- Winner of Coding Competition X
-
+  
 <br>
 
 ---
@@ -177,14 +176,6 @@
 <div align="center">
 
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alamin031&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
-<div align="center">
-
-  [![Code Time Stats](https://codetime.io/api/totalcodecommits/wakatime?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&title_color=fff)](https://codetime.io/@Alamin031)
 
 </div>
 
