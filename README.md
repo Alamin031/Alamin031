@@ -22,7 +22,7 @@
   💬 Ask me about Competitive Programming, Problem Solving
 </p>
 
-  <p align="center">
+  <p align="left">
   📫 Connect with me on:
 
     
