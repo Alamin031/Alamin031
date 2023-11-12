@@ -62,16 +62,16 @@
 
 ### Skills and Technologies
 
-- Programming Languages: C++, Java, Python
-- Web Development: HTML, CSS, JavaScript
+- Programming Languages: C++, Java, C#, Python, R,
+- Web Development: HTML, CSS, PHP, .NET, NEST.JS, NEXT.JS, REACT.JS, Tailwind CSS
 - Tools: Git, VS Code, Sublime Text
 
 <br>
 
 ### Projects
 
-- [Project 1](link-to-project-1): Short description
-- [Project 2](link-to-project-2): Short description
+- [Project 1](https://github.com/Alamin031/Hr-Tech-Node.JS-Project): Short description
+- [Project 2](https://github.com/Alamin031/E-Commers-project-.net.git): Short description
 
 <br>
 
@@ -93,6 +93,7 @@
 
 - Bachelor of Science in Computer Science and Engineering
   - American International University-Bangladesh (AIUB)
-  - Graduation Year: 20XX
+  - My Student ID: 20-42481-1
+  - Graduation Year: 2024-01-01
 
 
