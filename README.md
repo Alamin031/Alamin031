@@ -132,7 +132,7 @@
 
 <div align="center">
 
-  [![Md Al Amin Chowdhury GitHub stats](https://github-readme-stats.vercel.app/api/?username=Alamin031&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Alamin031)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/Alamin031/github-readme-stats)
 
 </div>
 
@@ -140,18 +140,55 @@
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/Alamin031/github-readme-stats)
+  [![Md Al Amin Chowdhury GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Alamin031&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://github.com/Alamin031/github-readme-streak-stats)
 
 </div>
 
 <br>
 
----
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Alamin031/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alamin031's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alamin031&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
+  [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alamin031&theme=github)](https://github.com/Alamin031)
+
+</div>
 
 <br>
+
+<div align="center">
+
+  [![GitHub Contributions](https://github-contributions.vercel.app/api/?username=Alamin031&bg_color=151515&text_color=FFFFFF&title_color=fff)](https://github.com/Alamin031/github-contributions)
+
+</div>
+
+<br>
+
+<div align="center">
+
+  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&title_color=fff)](https://wakatime.com/@Alamin031)
+
+</div>
+
+<br>
+
+<div align="center">
+
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alamin031&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br>
+
+<div align="center">
+
+  [![Code Time Stats](https://codetime.io/api/totalcodecommits/wakatime?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&title_color=fff)](https://codetime.io/@Alamin031)
+
+</div>
+
+<br>
+
+<div align="center">
+
+  [![GitHub Followers](https://img.shields.io/github/followers/Alamin031?label=Followers&style=social)](https://github.com/Alamin031?tab=followers)
+
+</div>
+
