@@ -7,7 +7,7 @@
 <h3 align="center">CS Undergraduate | Competitive Programmer | Problem Setter | Programming Trainer</h3>
 
 <a align="center">
-- 🔭 I’m currently studying Computer Science and Engineering at [American International University-Bangladesh](aiub.edu)
+- 🔭 I’m currently studying Computer Science and Engineering at <a href="https://www.aiub.edu/"> American International University-Bangladesh </a>
 </a>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-- 👨‍💻 All of my projects are available at <a href="https://alamin031.github.io/Md-Al-Amin-Chowdhury/">[alamin031.github.io]</a>
+- 👨‍💻 All of my projects are available at <a href="https://alamin031.github.io/Md-Al-Amin-Chowdhury/">alamin031.github.io</a>
 </p>
 
 <p align="center">
