@@ -7,15 +7,21 @@
 <h3 align="center">CS Undergraduate | Competitive Programmer | Problem Setter | Programming Trainer</h3>
 
 <p align="center">
+  
   🌱 Currently studying Computer Science and Engineering at [American International University-Bangladesh](aiub.edu)
+  
 </p>
 
 <p align="center">
+  
   👯 Looking to collaborate on Competitive Programming projects.
+  
 </p>
 
 <p align="center">
+  
   👨‍💻 All of my projects are available at [alamin031.github.io](https://alamin031.github.io/Md-Al-Amin-Chowdhury/)
+  
 </p>
 
 <p align="center">
@@ -153,23 +159,6 @@
 
 <br>
 
-<div align="center">
-
-
-  [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alamin031&theme=github)](https://github.com/Alamin031)
-
-
-</div>
-
-<br>
-
-<div align="center">
-
-  [![GitHub Contributions](https://github-contributions.vercel.app/api/?username=Alamin031&bg_color=151515&text_color=FFFFFF&title_color=fff)](https://github.com/Alamin031/github-contributions)
-
-</div>
-
-<br>
 
 <div align="center">
 
