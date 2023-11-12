@@ -10,9 +10,9 @@
 
 
 
-- 🌱- 🔭 I’m currently studying Computer Science and Engineering at [American International University-Bangladesh](aiub.edu)
+- 🔭 I’m currently studying Computer Science and Engineering at [American International University-Bangladesh](aiub.edu)
 - 👯 I’m looking to collaborate on CP.
-- 👨‍💻 All of my projects are available at [alamin031.github.i](https://alamin031.github.io/Md-Al-Amin-Chowdhury/)
+- 👨‍💻 All of my projects are available at [alamin031.github.io](https://alamin031.github.io/Md-Al-Amin-Chowdhury/)
 -  💬 Ask me about **Competitive Programming, Problem Solving**
 - 📫 How to reach me: <a href="https://www.facebook.com/Al.Amin.Chowdhury09/"> Md Al Amin Chowdhury </a>
 
@@ -26,6 +26,9 @@
   <a href="https://github.com/Alamin031/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin031&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff" alt="Top Languages">
   </a>
+
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 
