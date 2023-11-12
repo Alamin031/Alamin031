@@ -4,9 +4,9 @@
   </a>
 </h1>
 
-### Hi there 👋
-
 <h3 align="center">CS Undergraduate | Competitive Programmer | Problem Setter | Programming Trainer</h3>
+
+### Hi there 👋
 
 <p align="center">
   
