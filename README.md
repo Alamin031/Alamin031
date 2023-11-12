@@ -25,7 +25,9 @@
 </p>
 
 <p align="center">
+  
   💬 Ask me about Competitive Programming, Problem Solving
+  
 </p>
 
   <p align="left">
@@ -121,8 +123,8 @@
 
 ### Contact
 
-- 📧 Email: your.email@example.com
-- 🌐 Website: [https://yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: mridoy031@gmail.com
+- 🌐 Website: [Al Amin](https://alamin031.github.io/Md-Al-Amin-Chowdhury/)
 
 <br>
 
