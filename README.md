@@ -7,7 +7,9 @@
 <h3 align="center">CS Undergraduate | Competitive Programmer | Problem Setter | Programming Trainer</h3>
 
 <p align="center">
-  🌱 Currently studying Computer Science and Engineering at [American International University-Bangladesh](aiub.edu)
+  <a>
+      🌱 Currently studying Computer Science and Engineering at [American International University-Bangladesh](aiub.edu)
+      </a>
 </p>
 
 <p align="center">
