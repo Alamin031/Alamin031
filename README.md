@@ -175,6 +175,14 @@
 
 <div align="center">
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin031&layout=compact&theme=dark&hide_border=true)](https://github.com/Alamin031)
+
+</div>
+
+<br>
+
+<div align="center">
+
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alamin031&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
