@@ -62,9 +62,22 @@
 
 ### Skills and Technologies
 
-- Programming Languages: C++, Java, C#, Python, R,
-- Web Development: HTML, CSS, PHP, .NET, NEST.JS, NEXT.JS, REACT.JS, Tailwind CSS
+- Programming Languages: C++, Java, C#, Python, R
+- Web Development: HTML, CSS, PHP, .NET
 - Tools: Git, VS Code, Sublime Text
+- Database: MySQL, MongoDB, PostgreSQL
+- Frameworks: React, Express, Nest, Next, Tailwind CSS
+
+<br>
+<br>
+
+### Technology Stack
+
+- **Frontend**: HTML, CSS, JavaScript, React, Next
+- **Backend**: Php, Express, Nest.js, .NET,
+- **Database**: MySQL, MongoDB, PostgreSQL
+- **Version Control**: Git
+- **IDE**: VS Code, Sublime Text, Visual Studio
 
 <br>
 
@@ -96,4 +109,10 @@
   - My Student ID: 20-42481-1
   - Graduation Year: 2024-01-01
 
+<br>
 
+### Fun Fact
+
+- I can solve a Rubik's Cube in under two minutes!
+
+<br>
