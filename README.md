@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+### Hi there 👋
+
 <h3 align="center">CS Undergraduate | Competitive Programmer | Problem Setter | Programming Trainer</h3>
 
 <p align="center">
@@ -161,7 +163,7 @@
   
   [![Wakatime Badge](https://wakatime.com/badge/user/018bc4d0-2d37-4ca2-a88f-2a641385c956.svg)](https://wakatime.com/@018bc4d0-2d37-4ca2-a88f-2a641385c956)
   
-  [![Wakatime Profile](https://wakatime.com/share/@Alamin031/80e331c7-829c-472d-8ab3-0863eb0871aa.png)](https://wakatime.com/@Alamin031)
+  [![Wakatime Profile](https://wakatime.com/share/@Alamin031/c3f9f429-5d52-4c00-a9e7-0b00a06252ee.svg)](https://wakatime.com/@Alamin031)
 
 </div>
 
