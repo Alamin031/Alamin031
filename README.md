@@ -81,13 +81,6 @@
 
 <br>
 
----
-
-### GitHub Activity
-
-![Alamin031's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Alamin031&theme=github)
-
-<br>
 
 ---
 
@@ -169,6 +162,9 @@
   [![Wakatime Badge](https://wakatime.com/badge/user/018bc4d0-2d37-4ca2-a88f-2a641385c956.svg)](https://wakatime.com/@018bc4d0-2d37-4ca2-a88f-2a641385c956)
   
   [Wakatime Dashboard](https://wakatime.com/@Alamin031)
+
+  .. image:: https://wakatime.com/share/@Alamin031/80e331c7-829c-472d-8ab3-0863eb0871aa.png
+    :target: https://wakatime.com/
 
 </div>
 
