@@ -188,6 +188,8 @@
 
 <br>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Alamin031/07c9ca5b-6182-42f1-a4df-5dd98dbb4ceb.png" /></a>
+
 <br>
 
 <div align="center">
